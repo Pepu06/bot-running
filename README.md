@@ -58,3 +58,4 @@ Si deseas profundizar en todas las funciones y configuraciones que puedes implem
 - [📺 YouTube](https://www.youtube.com/channel/UCkk1guGQ6C6I4_XJ2Pa3SiA) – Mira nuestros tutoriales y contenido exclusivo.
 - [🛒 Todos los Productos](https://aipaths.teachable.com/courses/) – Explora todos nuestros cursos y herramientas disponibles.# bot-running
 # bot-running
+# bot-wpp
